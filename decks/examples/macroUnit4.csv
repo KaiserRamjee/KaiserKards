@@ -1,5 +1,19 @@
 front, back
-Financial Sector,"Network of institutions that link borrowers and lenders. Includes banks, mutual funds, pension funds, and other financial intermediaries."
-Interest Rate,"The amount a lender charges borrowers for borrowing money. It's the ""price"" of a loan."
-Assets, "Anything tangible or intangible that has value."
-Interest-bearing Assets,"Assets that earn interest over time. e.g. bonds."
+Bonds (Securities),Money lent to a borrower that must be paid back with interest
+Stocks (Equity),Ownership in a company and a share in its profits
+Bond Price and Interest Rate Relationship,Inversely related: when interest rates rise bond prices fall and vice versa
+Real Interest Rate,Percentage increase in purchasing power a borrower pays (adjusted for inflation); Real interest rate = Nominal interest rate - Expected inflation
+Nominal Interest Rate,Percentage increase in money a borrower pays; the agreed-upon rate actually paid on a loan; Nominal interest rate = Real interest rate + Expected inflation
+Future Value of Money,Value of $x after N years: FV = x(1 + r)^N where r is the interest rate and N is the number of years
+Financial Sector,"Network of institutions linking borrowers and lenders (e.g., banks, mutual funds, financial intermediaries, pension funds)"
+Assets,Anything tangible or intangible with value
+Interest Rate,Amount a lender charges a borrower for borrowing money; the price of a loan
+Interest-Bearing Asset,"Asset that earns interest over time (e.g., bonds)"
+Personal Finance,"How people and families budget, save, and spend"
+Investment,Business spending on tools and machines; when interest rates fall investment rises because there is less money to pay back
+Business Risk,Risk associated with a specific company or investment
+Market Risk,Risk that the overall market changes direction; even a good investment can lose money in a negative economy
+Credit Risk,Risk that a borrower defaults on a debt because they can't pay it back
+Liquidity Risk,"Risk from how long it takes to sell an asset (e.g., real estate)"
+Interest Rate Risk,"Risk that rising interest rates lower an asset's price (e.g., bonds)"
+Regulatory Risk,Risk that new laws or regulations from government or politicians hurt an investment's value
