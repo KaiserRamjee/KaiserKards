@@ -1,0 +1,14 @@
+{
+  "name": "kaiserkards",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Flashcards and quizzes generated from CSV files in the decks/ folder.",
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "preview": "npm run build && npx --yes serve dist"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
